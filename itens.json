@@ -4,13 +4,13 @@
     "nome": "Pizza italiana da casa",
     "preço": "50,00",
     "Descrição": "Pizza a moda da casa",
-    "urlPhoto": "https://raw.githubusercontent.com/igorbag/cars-api/main/img/eletric_car.png"
+    "urlPhoto": "https://sailesc.github.io/teste-api/img/teste.png"
   },
   {
     "id": 2,
     "nome": "Hamburguer artesanal com 2 carnes",
     "preço": "40,00",
     "Descrição": "Pão de brioche, 2 hamburguers de blends especiais com 100g, pepino, cebola e molho especial da casa.",
-    "urlPhoto": "https://raw.githubusercontent.com/igorbag/cars-api/main/img/eletric_car.png"
+    "urlPhoto": "https://sailesc.github.io/teste-api/img/teste.png"
   }
 ]
