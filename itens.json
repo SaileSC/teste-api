@@ -1,34 +1,16 @@
 [
   {
     "id": 1,
-    "preco": "R$ 300.000,00",
-    "bateria": "300 kWh",
-    "potencia": "200cv",
-    "recarga": "30 min",
+    "nome": "Pizza italiana da casa",
+    "preço": "50,00",
+    "Descrição": "Pizza a moda da casa",
     "urlPhoto": "https://raw.githubusercontent.com/igorbag/cars-api/main/img/eletric_car.png"
   },
   {
     "id": 2,
-    "preco": "R$ 200.000,00",
-    "bateria": "230 kWh",
-    "potencia": "100cv",
-    "recarga": "20 min",
-    "urlPhoto": "https://raw.githubusercontent.com/igorbag/cars-api/main/img/eletric_car.png"
-  },
-  {
-    "id": 3,
-    "preco": "R$ 554.000,00",
-    "bateria": "430 kWh",
-    "potencia": "400cv",
-    "recarga": "60 min",
-    "urlPhoto": "https://raw.githubusercontent.com/igorbag/cars-api/main/img/eletric_car.png"
-  },
-  {
-    "id": 4,
-    "preco": "R$ 323.000,00",
-    "bateria": "130 kWh",
-    "potencia": "200cv",
-    "recarga": "50 min",
+    "nome": "Hamburguer artesanal com 2 carnes",
+    "preço": "40,00",
+    "Descrição": "Pão de brioche, 2 hamburguers de blends especiais com 100g, pepino, cebola e molho especial da casa.",
     "urlPhoto": "https://raw.githubusercontent.com/igorbag/cars-api/main/img/eletric_car.png"
   }
 ]
