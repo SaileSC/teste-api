@@ -3,14 +3,14 @@
     "id": 1,
     "nome": "Pizza italiana da casa",
     "preco": "50,00",
-    "Descricao": "Pizza a moda da casa",
+    "descricao": "Pizza a moda da casa",
     "urlPhoto": "https://sailesc.github.io/teste-api/img/teste.png"
   },
   {
     "id": 2,
     "nome": "Hamburguer artesanal com 2 carnes",
     "preco": "40,00",
-    "Descricao": "Pão de brioche, 2 hamburguers de blends especiais com 100g, pepino, cebola e molho especial da casa.",
+    "descricao": "Pão de brioche, 2 hamburguers de blends especiais com 100g, pepino, cebola e molho especial da casa.",
     "urlPhoto": "https://sailesc.github.io/teste-api/img/teste.png"
   }
 ]
