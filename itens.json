@@ -12,5 +12,12 @@
     "preco": "40,00",
     "descricao": "Pão de brioche, 2 hamburguers de blends especiais com 100g, pepino, cebola e molho especial da casa.",
     "urlPhoto": "https://sailesc.github.io/teste-api/img/teste.png"
+  },
+  {
+    "id": 3,
+    "nome": "X-tudo",
+    "preco": "10,00",
+    "descricao": "Um x-tudo.",
+    "urlPhoto": "https://www.cacovelho.com.br/wp-content/uploads/2020/05/ham-1-scaled.jpg"
   }
 ]
