@@ -2,7 +2,7 @@
   {
     "id": 1,
     "nome": "Pizza italiana da casa",
-    "preco": "50,00",
+    "preco": "10,00",
     "descricao": "Pizza a moda da casa",
     "urlPhoto": "https://sailesc.github.io/teste-api/img/teste.png"
   },
