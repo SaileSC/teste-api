@@ -4,6 +4,7 @@
     "nome": "Pizza italiana da casa",
     "preco": "50,00",
     "descricao": "Pizza a moda da casa",
+    "categoria": "principal",
     "urlPhoto": "https://sailesc.github.io/teste-api/img/teste.png"
   },
   {
@@ -11,6 +12,7 @@
     "nome": "Hamburguer artesanal com 2 carnes",
     "preco": "40,00",
     "descricao": "Pão de brioche, 2 hamburguers de blends especiais com 100g, pepino, cebola e molho especial da casa.",
+    "categoria": "sobremesa",
     "urlPhoto": "https://sailesc.github.io/teste-api/img/teste.png"
   },
   {
@@ -18,6 +20,7 @@
     "nome": "X-tudo",
     "preco": "10,00",
     "descricao": "Um X-tudo.",
+    "categoria": "sobremesa",
     "urlPhoto": "https://www.cacovelho.com.br/wp-content/uploads/2020/05/ham-1-scaled.jpg"
   },
   {
@@ -25,132 +28,203 @@
     "nome": "Fricassê de frango com fritas",
     "preco": "30,00",
     "descricao": "Fricassê de frango com fritas e arroz com brócolis salteados.",
+    "categoria": "principal",
     "urlPhoto": "https://sailesc.github.io/teste-api/img/prato 1.jpeg"
   },  {
     "id": 5,
     "nome": "Mexido",
     "preco": "20,00",
     "descricao": "Lasanha de carne, arroz, fritas e aspargos salteados.",
+    "categoria": "principal",
     "urlPhoto": "https://sailesc.github.io/teste-api/img/prato 2.jpeg"
   },  {
     "id": 6,
     "nome": "Parmegiana com mussarela de búfala",
     "preco": "72,00",
     "descricao": "Alcatra a parmegiana com mussarela de búfala.",
+    "categoria": "principal",
     "urlPhoto": "https://sailesc.github.io/teste-api/img/prato 3.jpeg"
   },  {
     "id": 7,
     "nome": "Contra filé com fritas",
     "preco": "75,00",
     "descricao": "Contra-filé com legumes salteados (cebola e pimentão verde, vermelho e amarelo) e fritas.",
+    "categoria": "principal",
     "urlPhoto": "https://sailesc.github.io/teste-api/img/prato 4.jpeg"
   },  {
     "id": 8,
     "nome": "Risoto com rabada",
     "preco": "64,00",
     "descricao": "Risoto de gorgonzola com rabada.",
+    "categoria": "principal",
     "urlPhoto": "https://sailesc.github.io/teste-api/img/prato 5.jpeg"
   },  {
     "id": 9,
     "nome": "Tiramissu",
     "preco": "12,00",
     "descricao": "Tiramissu com biscoito champanhe e conhaque (opcional).",
+    "categoria": "sobremesa",
     "urlPhoto": "https://sailesc.github.io/teste-api/img/prato 6.jpeg"
   },  {
     "id": 10,
     "nome": "Salada",
     "preco": "5,00",
     "descricao": "Salada de tomate, couve e molho de manga.",
+    "categoria": "entrada",
     "urlPhoto": "https://sailesc.github.io/teste-api/img/prato 7.jpeg"
   },  {
     "id": 11,
     "nome": "Almôndegas com torrada na manteiga",
     "preco": "40,00",
     "descricao": "Almôndegas de patinho moído com torradas assadas na manteiga.",
+    "categoria": "entrada",
     "urlPhoto": "https://sailesc.github.io/teste-api/img/prato 8.jpeg"
   },  {
     "id": 12,
     "nome": "Iscas de peixe",
     "preco": "35,00",
     "descricao": "Iscas de peixe (tilápia) e molho tártaro verde.",
+    "categoria": "entrada",
     "urlPhoto": "https://sailesc.github.io/teste-api/img/prato 9.jpeg"
   },  {
     "id": 13,
     "nome": "Batatas fritas com mussarela",
     "preco": "21,00",
     "descricao": "Porção de batatas fritas com mussarela.",
+    "categoria": "entrada",
     "urlPhoto": "https://sailesc.github.io/teste-api/img/prato 10.jpeg"
   },  {
     "id": 14,
     "nome": "Mesa de frios",
     "preco": "Variável (de acordo com a escolha do cliente)",
     "descricao": "Uma mesa de frios com a seleção do cliente.",
+    "categoria": "principal",
     "urlPhoto": "https://sailesc.github.io/teste-api/img/prato 11.jpeg"
   },  {
     "id": 15,
     "nome": "Coxinha de carne seca com abóbora",
     "preco": "39,00",
     "descricao": "Coxinha de carne seca na lata com abóbora assada.",
+    "categoria": "entrada",
     "urlPhoto": "https://sailesc.github.io/teste-api/img/prato 12.jpeg"
   },  {
     "id": 16,
     "nome": "Arroz de forno com legumes e Catupiry®",
     "preco": "37,00",
     "descricao": "Arroz com açafrão, pimentão, cenoura, tomate, azeitonas e queijo mussarela.",
+    "categoria": "principal",
     "urlPhoto": "https://sailesc.github.io/teste-api/img/prato 13.jpeg"
   },  {
     "id": 17,
     "nome": "Lasanha de frango com dois molhos",
     "preco": "35,00",
     "descricao": "Lasanha de frango com dois molhos e queijo mussarela.",
+    "categoria": "principal",
     "urlPhoto": "https://sailesc.github.io/teste-api/img/prato 14.jpeg"
   },  {
     "id": 18,
     "nome": "Medalhão de frango com purê de mandioquinha",
     "preco": "63,00",
     "descricao": "Medalhões de frango recheados com Catupiry® e purê de mandioquinha.",
+    "categoria": "principal",
     "urlPhoto": "https://sailesc.github.io/teste-api/img/prato 15.jpeg"
   },  {
     "id": 19,
     "nome": "Fricassê de frango e creme de milho",
     "preco": "45,00",
     "descricao": "Fricassê de frango com creme de milho e queijo mussarela ralado.",
+    "categoria": "principal",
     "urlPhoto": "https://sailesc.github.io/teste-api/img/prato 16.jpeg"
   },  {
     "id": 20,
     "nome": "Bacalhau gratinado aos queijos",
     "preco": "65,00",
     "descricao": "Bacalhau gratinado com queijo parmesão, provolone, mussarela e requeijão cremoso.",
+    "categoria": "principal",
     "urlPhoto": "https://sailesc.github.io/teste-api/img/prato 17.jpeg"
   },  {
     "id": 21,
     "nome": "Escondidinho de carne moída com batata",
     "preco": "30,00",
     "descricao": "Escondidinho de carne moída com batata e queijo mussarela ralado.",
+    "categoria": "principal",
     "urlPhoto": "https://sailesc.github.io/teste-api/img/prato 18.jpeg"
   },  {
     "id": 22,
     "nome": "Salada com iscas de peixe",
     "preco": "25,00",
     "descricao": "Salada de alface crespa, pepino, repolhos branco e roxo, cenoura, pimentão e tomate com iscas de peixe (tilápia).",
+    "categoria": "entrada",
     "urlPhoto": "https://sailesc.github.io/teste-api/img/prato 19.jpeg"
   },  {
     "id": 23,
     "nome": "Caponata de berinjela",
     "preco": "27,00",
     "descricao": "Caponata de berinjela com pimentão vermelho, amarelo e verde.",
+    "categoria": "principal",
     "urlPhoto": "https://sailesc.github.io/teste-api/img/prato 20.jpeg"
   },  {
     "id": 24,
     "nome": "Carne de onça",
     "preco": "38,00",
     "descricao": "Carne de onça (patinho moído) e salada de alface crespo.",
+    "categoria": "principal",
     "urlPhoto": "https://sailesc.github.io/teste-api/img/prato 21.jpeg"
   },  {
     "id": 25,
     "nome": "Ceviche",
     "preco": "40,00",
     "descricao": "Ceviche (robalo ou pescada) e caldo de peixe temperado.",
-    "urlPhoto": "https://sailesc.github.io/teste-api/img/prato 22.jpeg"
+    "categoria": "principal",
+    "urlPhoto": "https://sailesc.github.io/teste-api/img/prato 22.jpg"
+  },  {
+    "id": 26,
+    "nome": "Cheesecake de frutas vermelhas",
+    "preco": "5,00 fatia",
+    "descricao": "Fatia de cheesecake de frutas vermelhas.",
+    "categoria": "sobremesa",
+    "urlPhoto": "https://sailesc.github.io/teste-api/img/prato 23.jpg"
+  },  {
+    "id": 27,
+    "nome": "Petit Gateau",
+    "preco": "20,00",
+    "descricao": "Petit Gateau com chocolate meio amargo.",
+    "categoria": "sobremesa",
+    "urlPhoto": "https://sailesc.github.io/teste-api/img/prato 24.jpg"
+  },  {
+    "id": 28,
+    "nome": "Torta",
+    "preco": "6,00",
+    "descricao": "Fatia de torta de chocolate, baunilha ou coco com cobertura de chocolate ou chocolate branco.",
+    "categoria": "sobremesa",
+    "urlPhoto": "https://sailesc.github.io/teste-api/img/prato 25.jpg"
+  },  {
+    "id": 29,
+    "nome": "Churros",
+    "preco": "5,00",
+    "descricao": "Churros com recheio de chocolate, leite condensado ou creme branco.",
+    "categoria": "sobremesa",
+    "urlPhoto": "https://sailesc.github.io/teste-api/img/prato 26.jpg"
+  },  {
+    "id": 30,
+    "nome": "Brownie com sorvete",
+    "preco": "6,00",
+    "descricao": "Brownie de chocolate meio amargo com sorvete de baunilha.",
+    "categoria": "sobremesa",
+    "urlPhoto": "https://sailesc.github.io/teste-api/img/prato 27.jpg"
+  },  {
+    "id": 31,
+    "nome": "Salada de frutas",
+    "preco": "8,00",
+    "descricao": "Taça de salada de frutas (morango, kiwi, manga e maçã).",
+    "categoria": "sobremesa",
+    "urlPhoto": "https://sailesc.github.io/teste-api/img/prato 28.jpg"
+  },  {
+    "id": 32,
+    "nome": "Pudim",
+    "preco": "6,00",
+    "descricao": "Fatia de pudim de leite.",
+    "categoria": "sobremesa",
+    "urlPhoto": "https://sailesc.github.io/teste-api/img/prato 29.jpg"
   }
 ]
