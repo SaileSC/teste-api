@@ -96,7 +96,7 @@
   },  {
     "id": 14,
     "nome": "Mesa de frios",
-    "preco": "Variável (de acordo com a escolha do cliente)",
+    "preco": "40,00",
     "descricao": "Uma mesa de frios com a seleção do cliente.",
     "categoria": "principal",
     "urlPhoto": "https://sailesc.github.io/teste-api/img/prato 11.jpeg"
@@ -109,7 +109,7 @@
     "urlPhoto": "https://sailesc.github.io/teste-api/img/prato 12.jpeg"
   },  {
     "id": 16,
-    "nome": "Arroz de forno com legumes e Catupiry®",
+    "nome": "Arroz de forno com legumes e Catupiry",
     "preco": "37,00",
     "descricao": "Arroz com açafrão, pimentão, cenoura, tomate, azeitonas e queijo mussarela.",
     "categoria": "principal",
@@ -125,7 +125,7 @@
     "id": 18,
     "nome": "Medalhão de frango com purê de mandioquinha",
     "preco": "63,00",
-    "descricao": "Medalhões de frango recheados com Catupiry® e purê de mandioquinha.",
+    "descricao": "Medalhões de frango recheados com Catupiry e purê de mandioquinha.",
     "categoria": "principal",
     "urlPhoto": "https://sailesc.github.io/teste-api/img/prato 15.jpeg"
   },  {
@@ -180,7 +180,7 @@
   },  {
     "id": 26,
     "nome": "Cheesecake de frutas vermelhas",
-    "preco": "5,00 fatia",
+    "preco": "5,00",
     "descricao": "Fatia de cheesecake de frutas vermelhas.",
     "categoria": "sobremesa",
     "urlPhoto": "https://sailesc.github.io/teste-api/img/prato 23.jpg"
