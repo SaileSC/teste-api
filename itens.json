@@ -1,230 +1,162 @@
 [
-  {
-    "id": 1,
-    "nome": "Pizza italiana da casa",
-    "preco": "50,00",
-    "descricao": "Pizza a moda da casa",
-    "categoria": "principal",
-    "urlPhoto": "https://sailesc.github.io/teste-api/img/teste.png"
-  },
-  {
-    "id": 2,
-    "nome": "Hamburguer artesanal com 2 carnes",
-    "preco": "40,00",
-    "descricao": "Pão de brioche, 2 hamburguers de blends especiais com 100g, pepino, cebola e molho especial da casa.",
-    "categoria": "sobremesa",
-    "urlPhoto": "https://sailesc.github.io/teste-api/img/teste.png"
-  },
-  {
-    "id": 3,
-    "nome": "X-tudo",
-    "preco": "10,00",
-    "descricao": "Um X-tudo.",
-    "categoria": "sobremesa",
-    "urlPhoto": "https://www.cacovelho.com.br/wp-content/uploads/2020/05/ham-1-scaled.jpg"
-  },
-  {
-    "id": 4,
-    "nome": "Fricassê de frango com fritas",
-    "preco": "30,00",
-    "descricao": "Fricassê de frango com fritas e arroz com brócolis salteados.",
-    "categoria": "principal",
-    "urlPhoto": "https://sailesc.github.io/teste-api/img/prato 1.jpeg"
-  },  {
-    "id": 5,
-    "nome": "Mexido",
-    "preco": "20,00",
-    "descricao": "Lasanha de carne, arroz, fritas e aspargos salteados.",
-    "categoria": "principal",
-    "urlPhoto": "https://sailesc.github.io/teste-api/img/prato 2.jpeg"
-  },  {
-    "id": 6,
-    "nome": "Parmegiana com mussarela de búfala",
-    "preco": "72,00",
-    "descricao": "Alcatra a parmegiana com mussarela de búfala.",
-    "categoria": "principal",
-    "urlPhoto": "https://sailesc.github.io/teste-api/img/prato 3.jpeg"
-  },  {
-    "id": 7,
-    "nome": "Contra filé com fritas",
-    "preco": "75,00",
-    "descricao": "Contra-filé com legumes salteados (cebola e pimentão verde, vermelho e amarelo) e fritas.",
-    "categoria": "principal",
-    "urlPhoto": "https://sailesc.github.io/teste-api/img/prato 4.jpeg"
-  },  {
-    "id": 8,
-    "nome": "Risoto com rabada",
-    "preco": "64,00",
-    "descricao": "Risoto de gorgonzola com rabada.",
-    "categoria": "principal",
-    "urlPhoto": "https://sailesc.github.io/teste-api/img/prato 5.jpeg"
-  },  {
-    "id": 9,
-    "nome": "Tiramissu",
-    "preco": "12,00",
-    "descricao": "Tiramissu com biscoito champanhe e conhaque (opcional).",
-    "categoria": "sobremesa",
-    "urlPhoto": "https://sailesc.github.io/teste-api/img/prato 6.jpeg"
-  },  {
-    "id": 10,
-    "nome": "Salada",
-    "preco": "5,00",
-    "descricao": "Salada de tomate, couve e molho de manga.",
-    "categoria": "entrada",
-    "urlPhoto": "https://sailesc.github.io/teste-api/img/prato 7.jpeg"
-  },  {
-    "id": 11,
-    "nome": "Almôndegas com torrada na manteiga",
-    "preco": "40,00",
-    "descricao": "Almôndegas de patinho moído com torradas assadas na manteiga.",
-    "categoria": "entrada",
-    "urlPhoto": "https://sailesc.github.io/teste-api/img/prato 8.jpeg"
-  },  {
-    "id": 12,
-    "nome": "Iscas de peixe",
-    "preco": "35,00",
-    "descricao": "Iscas de peixe (tilápia) e molho tártaro verde.",
-    "categoria": "entrada",
-    "urlPhoto": "https://sailesc.github.io/teste-api/img/prato 9.jpeg"
-  },  {
-    "id": 13,
-    "nome": "Batatas fritas com mussarela",
-    "preco": "21,00",
-    "descricao": "Porção de batatas fritas com mussarela.",
-    "categoria": "entrada",
-    "urlPhoto": "https://sailesc.github.io/teste-api/img/prato 10.jpeg"
-  },  {
-    "id": 14,
-    "nome": "Mesa de frios",
-    "preco": "40,00",
-    "descricao": "Uma mesa de frios com a seleção do cliente.",
-    "categoria": "principal",
-    "urlPhoto": "https://sailesc.github.io/teste-api/img/prato 11.jpeg"
-  },  {
-    "id": 15,
-    "nome": "Coxinha de carne seca com abóbora",
-    "preco": "39,00",
-    "descricao": "Coxinha de carne seca na lata com abóbora assada.",
-    "categoria": "entrada",
-    "urlPhoto": "https://sailesc.github.io/teste-api/img/prato 12.jpeg"
-  },  {
-    "id": 16,
-    "nome": "Arroz de forno com legumes e Catupiry",
-    "preco": "37,00",
-    "descricao": "Arroz com açafrão, pimentão, cenoura, tomate, azeitonas e queijo mussarela.",
-    "categoria": "principal",
-    "urlPhoto": "https://sailesc.github.io/teste-api/img/prato 13.jpeg"
-  },  {
-    "id": 17,
-    "nome": "Lasanha de frango com dois molhos",
-    "preco": "35,00",
-    "descricao": "Lasanha de frango com dois molhos e queijo mussarela.",
-    "categoria": "principal",
-    "urlPhoto": "https://sailesc.github.io/teste-api/img/prato 14.jpeg"
-  },  {
-    "id": 18,
-    "nome": "Medalhão de frango com purê de mandioquinha",
-    "preco": "63,00",
-    "descricao": "Medalhões de frango recheados com Catupiry e purê de mandioquinha.",
-    "categoria": "principal",
-    "urlPhoto": "https://sailesc.github.io/teste-api/img/prato 15.jpeg"
-  },  {
-    "id": 19,
-    "nome": "Fricassê de frango e creme de milho",
-    "preco": "45,00",
-    "descricao": "Fricassê de frango com creme de milho e queijo mussarela ralado.",
-    "categoria": "principal",
-    "urlPhoto": "https://sailesc.github.io/teste-api/img/prato 16.jpeg"
-  },  {
-    "id": 20,
-    "nome": "Bacalhau gratinado aos queijos",
-    "preco": "65,00",
-    "descricao": "Bacalhau gratinado com queijo parmesão, provolone, mussarela e requeijão cremoso.",
-    "categoria": "principal",
-    "urlPhoto": "https://sailesc.github.io/teste-api/img/prato 17.jpeg"
-  },  {
-    "id": 21,
-    "nome": "Escondidinho de carne moída com batata",
-    "preco": "30,00",
-    "descricao": "Escondidinho de carne moída com batata e queijo mussarela ralado.",
-    "categoria": "principal",
-    "urlPhoto": "https://sailesc.github.io/teste-api/img/prato 18.jpeg"
-  },  {
-    "id": 22,
-    "nome": "Salada com iscas de peixe",
-    "preco": "25,00",
-    "descricao": "Salada de alface crespa, pepino, repolhos branco e roxo, cenoura, pimentão e tomate com iscas de peixe (tilápia).",
-    "categoria": "entrada",
-    "urlPhoto": "https://sailesc.github.io/teste-api/img/prato 19.jpeg"
-  },  {
-    "id": 23,
-    "nome": "Caponata de berinjela",
-    "preco": "27,00",
-    "descricao": "Caponata de berinjela com pimentão vermelho, amarelo e verde.",
-    "categoria": "principal",
-    "urlPhoto": "https://sailesc.github.io/teste-api/img/prato 20.jpeg"
-  },  {
-    "id": 24,
-    "nome": "Carne de onça",
-    "preco": "38,00",
-    "descricao": "Carne de onça (patinho moído) e salada de alface crespo.",
-    "categoria": "principal",
-    "urlPhoto": "https://sailesc.github.io/teste-api/img/prato 21.png"
-  },  {
-    "id": 25,
-    "nome": "Ceviche",
-    "preco": "40,00",
-    "descricao": "Ceviche (robalo ou pescada) e caldo de peixe temperado.",
-    "categoria": "principal",
-    "urlPhoto": "https://sailesc.github.io/teste-api/img/prato 22.jpg"
-  },  {
-    "id": 26,
-    "nome": "Cheesecake de frutas vermelhas",
-    "preco": "5,00",
-    "descricao": "Fatia de cheesecake de frutas vermelhas.",
-    "categoria": "sobremesa",
-    "urlPhoto": "https://sailesc.github.io/teste-api/img/prato 23.jpg"
-  },  {
-    "id": 27,
-    "nome": "Petit Gateau",
-    "preco": "20,00",
-    "descricao": "Petit Gateau com chocolate meio amargo.",
-    "categoria": "sobremesa",
-    "urlPhoto": "https://sailesc.github.io/teste-api/img/prato 24.jpg"
-  },  {
-    "id": 28,
-    "nome": "Torta",
-    "preco": "6,00",
-    "descricao": "Fatia de torta de chocolate, baunilha ou coco com cobertura de chocolate ou chocolate branco.",
-    "categoria": "sobremesa",
-    "urlPhoto": "https://sailesc.github.io/teste-api/img/prato 25.jpg"
-  },  {
-    "id": 29,
-    "nome": "Churros",
-    "preco": "5,00",
-    "descricao": "Churros com recheio de chocolate, leite condensado ou creme branco.",
-    "categoria": "sobremesa",
-    "urlPhoto": "https://sailesc.github.io/teste-api/img/prato 26.jpg"
-  },  {
-    "id": 30,
-    "nome": "Brownie com sorvete",
-    "preco": "6,00",
-    "descricao": "Brownie de chocolate meio amargo com sorvete de baunilha.",
-    "categoria": "sobremesa",
-    "urlPhoto": "https://sailesc.github.io/teste-api/img/prato 27.jpg"
-  },  {
-    "id": 31,
-    "nome": "Salada de frutas",
-    "preco": "8,00",
-    "descricao": "Taça de salada de frutas (morango, kiwi, manga e maçã).",
-    "categoria": "sobremesa",
-    "urlPhoto": "https://sailesc.github.io/teste-api/img/prato 28.jpg"
-  },  {
-    "id": 32,
-    "nome": "Pudim",
-    "preco": "6,00",
-    "descricao": "Fatia de pudim de leite.",
-    "categoria": "sobremesa",
-    "urlPhoto": "https://sailesc.github.io/teste-api/img/prato 29.jpg"
-  }
+    {
+        "id": 1,
+        "nome": "Tacacá",
+        "preco": "20,00",
+        "descricao": "Delicioso tacacá com camarões refogados e jambu cozido",
+        "categoria": "principal",
+        "urlPhoto": "https://cdn.awsli.com.br/800x800/942/942102/produto/135461829/fb2b05230b.jpg"
+    },
+    {
+        "id": 2,
+        "nome": "Pato no tucupi",
+        "preco": "25,00",
+        "descricao": "Pato cozido no tucupi com tomates salteados e limão",
+        "categoria": "principal",
+        "urlPhoto": "https://cloudfront-us-east-1.images.arcpublishing.com/estadao/3HQ7FB53YNL7LJ66SVKA6KASYQ.jpg"
+    },
+    {
+        "id": 3,
+        "nome": "Tapioca de queijo",
+        "preco": "5,00",
+        "descricao": "Tapioca com queijo coalho e manteiga",
+        "categoria": "entrada",
+        "urlPhoto": "https://receitinhas.com.br/wp-content/uploads/2023/08/tapioca-queijo-mussarela-e1692444665554.jpg"
+    },
+    {
+        "id": 4,
+        "nome": "X-Caboquinho",
+        "preco": "15,00",
+        "descricao": "Pão com manteiga, queijo coalho, tucumã e banana frita",
+        "categoria": "entrada",
+        "urlPhoto": "https://conteudo.imguol.com.br/c/entretenimento/a3/2021/06/08/x-caboquinho-1623200218752_v2_1080x1080.jpg"
+    },
+    {
+        "id": 5,
+        "nome": "Vatapá do Amazonas",
+        "preco": "40,00",
+        "descricao": "Vatapá de camarão",
+        "categoria": "principal",
+        "urlPhoto": "https://receitinhas.com.br/wp-content/uploads/2023/03/Vatapa-paraense-1-1200x738.png"
+    },
+    {
+        "id": 6,
+        "nome": "Açaí 500ml",
+        "preco": "8,00",
+        "descricao": "Açaí adoçado com farinha de tapioca",
+        "categoria": "sobremesa",
+        "urlPhoto": "https://www.brasilagosto.org/wp-content/uploads/2019/01/acai-com-tapioca-flocada.jpg"
+    },
+    {
+        "id": 7,
+        "nome": "Tambaquí assado com baião de dois",
+        "preco": "80,00",
+        "descricao": "Banda de tambaquí assado com baião de dois temperado com cheiro verde e pimenta de cheiro",
+        "categoria": "principal",
+        "urlPhoto": "https://visiteobrasil.com.br/galerias/carac8-amazonas-tambaqui-assado-com-recheio/638-123651-culinaria-do-amazonas-tambaqui-assado-com-recheio-foto-tv-manauaragr.jpg"
+    },
+    {
+        "id": 8,
+        "nome": "Pirarucu de casaca",
+        "preco": "65,00",
+        "descricao": "Pirarucu desfiado com farofa umidecida com leite de coco e banana pacovã frita",
+        "categoria": "principal",
+        "urlPhoto": "https://www.receiteria.com.br/wp-content/uploads/pirarucu-de-casaca-730x450.png"
+    },
+    {
+        "id": 9,
+        "nome": "Caldeirada de peixe",
+        "preco": "55,00",
+        "descricao": "Caldeirada de tucunaré com ervas regionais",
+        "categoria": "principal",
+        "urlPhoto": "https://files.agro20.com.br/uploads/2020/04/Caldeirada-2.jpg"
+    },
+    {
+        "id": 10,
+        "nome": "Iscas de pirarucu",
+        "preco": "20,00",
+        "descricao": "",
+        "categoria": "entrada",
+        "urlPhoto": "https://gostodaamazonia.com.br/wp-content/uploads/2022/02/peixe-frito_Easy-Resize.com_-1024x682.jpg"
+    },
+    {
+        "id": 11,
+        "nome": "Farofa de jabá",
+        "preco": "15,00",
+        "descricao": "Farofa de carne seca frita com cebola e alho",
+        "categoria": "entrada",
+        "urlPhoto": "https://assets.delirec.com/images%2F76KDjk69suV4Ad619P3lYw2kkH03%2Frecipe%2F2724274a-50ce-415e-80dd-26f8fd06f21f-Farofa-de-charque-gallery-0"
+    },
+    {
+        "id": 12,
+        "nome": "Mousse de cupuaçu",
+        "preco": "10,00",
+        "descricao": "Mousse de cupuaçu gourmet, gelado com chocolate",
+        "categoria": "sobremesa",
+        "urlPhoto": "https://o.imgac.net/receita/musse-de-cupuacu-com-chocolate-34284.jpg"
+    },
+    {
+        "id": 13,
+        "nome": "Bolinho de tambaquí",
+        "preco": "18,00",
+        "descricao": "Bolinhos de tambaquí fritos com arroz",
+        "categoria": "entrada",
+        "urlPhoto": "https://anamariabrogui.com.br/assets/uploads/receitas/fotos/mnkzs56gb280gco444.jpg"
+    },
+    {
+        "id": 14,
+        "nome": "Caruru de camarão",
+        "preco": "37,00",
+        "descricao": "Creme de camarão com quiabo cozido e leite de coco",
+        "categoria": "principal",
+        "urlPhoto": "https://static.itdg.com.br/images/600-600/c96b3a9f14ce8470949ce4a21e371504/caruru-como-fazer.jpg"
+    },
+    {
+        "id": 15,
+        "nome": "Macaxeira frita",
+        "preco": "7,00",
+        "descricao": "Macaxeira frita com sal",
+        "categoria": "entrada",
+        "urlPhoto": "https://i.panelinha.com.br/i1/228-bk-9785-mandioca-frita.webp"
+    },
+    {
+        "id": 16,
+        "nome": "Bolo de macaxeira",
+        "preco": "6,00",
+        "descricao": "Bolo de macaxeira com leite condensado",
+        "categoria": "sobremesa",
+        "urlPhoto": "https://www.aperitifalafrancaise.com.br/wp-content/uploads/2023/04/como-fazer-bolo-de-aipim.webp"
+    },
+    {
+        "id": 17,
+        "nome": "Pamonha",
+        "preco": "5,00",
+        "descricao": "Pamonha de milho enrolada em folha de bananeira",
+        "categoria": "entrada",
+        "urlPhoto": "https://paraisodacozinha.com.br/wp-content/uploads/festa-junina-pamonha.jpg"
+    },
+    {
+        "id": 18,
+        "nome": "Cará roxo cozido",
+        "preco": "3,00",
+        "descricao": "Cará roxo cozido com sal,
+        "categoria": "entrada",
+        "urlPhoto": "https://s2.glbimg.com/68DZI8e5KiaMEl5BJM0t6k8jAWw=/s.glbimg.com/og/rg/f/original/2015/10/31/cara_cozido_620.jpg"
+    },
+    {
+        "id": 19,
+        "nome": "Porção de pupunha",
+        "preco": "5,00",
+        "descricao": "10 pupunhas cozidas",
+        "categoria": "entrada",
+        "urlPhoto": "https://pbs.twimg.com/media/DwqfGPcX0AELnUx?format=jpg&name=4096x4096"
+    },
+    {
+        "id": 20,
+        "nome": "Frozen açaí 500ml",
+        "preco": "10,00",
+        "descricao": "Frozen açaí com amendoim",
+        "categoria": "sobremesa",
+        "urlPhoto": "https://img.freepik.com/fotos-premium/brazilian-frozen-acai-berry-sorvete-smoothie-em-copo-plastico-no-fundo-roxo-vista-frontal-para-menu-e-midias-sociais_317399-1250.jpg"
+    }
 ]
